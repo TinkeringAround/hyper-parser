@@ -1,0 +1,13 @@
+# Directories
+data
+build
+dist
+
+# File Type
+*.log
+*.csv
+*.hyper
+*.spec
+
+# OS
+.DS_Store

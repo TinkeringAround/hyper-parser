@@ -1,0 +1,1 @@
+arch -x86_64 pyinstaller --onefile index.py

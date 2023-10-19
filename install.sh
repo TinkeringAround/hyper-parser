@@ -1,0 +1,1 @@
+arch -x86_64 pip install tableauhyperapi
